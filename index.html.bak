@@ -64,7 +64,7 @@
 	    <h1>山兰寨糯米酒</h1>
 	  </div>
 	  <div data-role="main" class="ui-content">
-	    <img alt="logo" src="../slzPrj/image/logoImage.png" width="100%" height="100%"/>
+	    <img alt="logo" src="../image/logoImage.png" width="100%" height="100%"/>
 	    <div data-role="collapsibleset">
 	      <div data-role="collapsible" data-inset="false">
 	        <h3>产品简介</h3>
